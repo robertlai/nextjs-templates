@@ -2,11 +2,11 @@
 
 ## Default
 ```
-yarn create next-app --example "https://github.com/robertlai/rlai-nextjs-templates/tree/main/default"
+yarn create next-app --example "https://github.com/robertlai/nextjs-templates/tree/main/default"
 ```
 
 ## MongoDB
 ```
-yarn create next-app --example "https://github.com/robertlai/rlai-nextjs-templates/tree/main/mongodb"
+yarn create next-app --example "https://github.com/robertlai/nextjs-templates/tree/main/mongodb"
 ```
 
